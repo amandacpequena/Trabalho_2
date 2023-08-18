@@ -1,0 +1,16 @@
+@import url("styles/heaer.css");
+
+
+:root{
+    --color-1: coral;
+    --color-2: darksalmon;
+    --color-3: lightcoral;
+
+    --font-bonita: initial;
+}
+
+body{
+    background-color: var(--color-1);
+    margin: 2;
+    font-family: var(--font-bonita);
+}
